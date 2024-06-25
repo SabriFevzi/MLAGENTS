@@ -1,0 +1,24 @@
+{
+    "3DBallHard": {
+        "checkpoints": [
+            {
+                "steps": 138872,
+                "file_path": "results\\agent07\\3DBallHard\\3DBallHard-138872.onnx",
+                "reward": null,
+                "creation_time": 1719311476.1245327
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 138872,
+            "file_path": "results\\agent07\\3DBallHard.onnx",
+            "reward": null,
+            "creation_time": 1719311476.1245327
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}
